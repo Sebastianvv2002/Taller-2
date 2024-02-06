@@ -9,3 +9,7 @@ def suma(a:float,b:float,c:float)->float:
 def multip(a:float, b:float)->float:
     op = a*b
     return op
+
+def multip_2(a:float, b:float)->float:
+    ope = a*b*2
+    return ope
